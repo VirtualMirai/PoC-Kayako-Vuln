@@ -6,7 +6,7 @@ This is a PoC for the vulnerability of the Kayako Ticketing suite. Affected vers
 
 I have gained permission to public the PoC.
 
-##Vulnerability details:
+## Vulnerability details:
 https://classichelp.kayako.com/hc/en-us/articles/360006460899-June-2015-Security-Advisory-Kayako-Classic-4-70-1-and-Earlier
 
 Vulnerability
